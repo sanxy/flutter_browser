@@ -1,6 +1,6 @@
-# flutter_browser
+# Flutter Browser
 
-A new Flutter application.
+A Flutter custom web browser application.
 
 ## Getting Started
 
